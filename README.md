@@ -13,7 +13,7 @@ QuadrantSignal is an automated email alert service for stock trading signals bas
 
 Following the initial launch of [QuadrantSignal](https://github.com/marshallwolfe/QuadrantSignal_Public), we quickly identified areas for improvement and started to gather feedback from subscribers to enhance our offering. Below we detail the improvements and new features for the latest deployment of QuadrantSignal and, we present our latest supporting analyses for utilizing QuadrantSignal.
 
-###The Directional Compass:
+### The Directional Compass:
 
 ![Quadrant Compass](Images/Directional_Quadrant_Graphic.png)
 
@@ -24,7 +24,7 @@ To build in enhancements and enable new features we had three primary goals:
 2)  Switch from Amazon SNS to Amazon SES to enable HTML-formatted emails
 3)  Store signals and associated data for future backtesting and proof of performance
 
-![Serverless_Architecture](Images/quadrantsignalarchitecturev2withgrid_v2B.png)
+![Serverless_Architecture](Images/ServerlessApplicationArchitectureQuadrantSignal.png)
 
 ### Upgrading APIs
 
