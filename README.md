@@ -58,7 +58,7 @@ We switched from Amazon SNS (Simple Notification Service) to Amazon SES (Simple 
 * Include text-based legal disclaimer
 * Important for Accessibility
 
-![v1.0 Text-only SNS Email](Images/V1.png)
+![v1.0 Text-only SNS Email](Images/v1.png)
 
 ![v2.0 HTML-formatted SES Email](Images/HTML-Email.png)
 
