@@ -20,9 +20,9 @@ Following the initial launch of [QuadrantSignal](https://github.com/marshallwolf
 ## What we did
 
 To build in enhancements and enable new features we had three primary goals:
-1)   Swap APIs for more reliable and higher quality data
-2)  Switch from Amazon SNS to Amazon SES to enable HTML-formatted emails
-3)  Store signals and associated data for future backtesting and proof of performance
+1)  **Swap APIs** for more reliable and higher quality data
+2)  **Switch from Amazon SNS to Amazon SES** to enable HTML-formatted emails
+3)  **Store signals and associated data** for future backtesting and proof of performance
 
 ![Serverless_Architecture](Images/ServerlessApplicationArchitectureQuadrantSignal.png)
 
