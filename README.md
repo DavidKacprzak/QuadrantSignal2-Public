@@ -24,7 +24,7 @@ To build in enhancements and enable new features we had three primary goals:
 2)  **Switch from Amazon SNS to Amazon SES** to enable HTML-formatted emails
 3)  **Store signals and associated data** for future backtesting and proof of performance
 
-![Serverless_Architecture](Images/ServerlessApplicationArchitectureQuadrantSignal.png)
+![Serverless_Architecture](Images/quadrantsignalarchitecturev2withgrid_v2B.png)
 
 ### Upgrading APIs
 
@@ -118,7 +118,7 @@ We speculate the high performance of the Bottom Right quadrant in this analysis 
 
 ![Super!](Images/Super2.jpg)
 
-With multiple analyses running in tandem we are happy to introduce the QuadrantSignal Super Signal! Super Signal combinations will be part our next undertaking of quantitative analysis in supporting the QuadrantSignal trading methodology. For example, "Strong Buy + Strong Buy" or "Strong Buy + Hold" are two combinations we are interested in investigating the returns vs. the market and which combination outperforms the other. We believe the Super Signals are an exciting future feature to boost confidence and performance of your trades!
+With multiple analyses running in tandem we are happy to introduce the **QuadrantSignal Super Signal!** Super Signal combinations will be part our next undertaking of quantitative analysis in supporting the QuadrantSignal trading methodology. For example, "Strong Buy + Strong Buy" or "Strong Buy + Hold" are two combinations we are interested in investigating the returns vs. the market and which combination outperforms the other. We believe the Super Signals are an exciting future feature to boost confidence and performance of your trades!
 
 Another exciting frontier for research and an opportunity to innovate exists in macroeconomic analysis using the QuandrantSignal data we are storing. Could registering a high number of Strong Buy signals be and indicator of a bull market to come? We don't know yet but, we are thrilled to be equipped with our Northwestern FinTech skills (Python, SQL, Machine Learning, and AWS Cloud) to uncover the results of this quantitative research.
 
